@@ -1,0 +1,2 @@
+This file is meant for Integrify lesson on Git and GitHub.
+ We will be testing our newly learned skills.
