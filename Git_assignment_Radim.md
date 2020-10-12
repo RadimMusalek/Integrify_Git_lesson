@@ -13,10 +13,10 @@
 
 ### Merging conflict in GitHub
 
-<img src="https://drive.google.com/uc?export=download&id=15NRMWa02M8lDMWj1t2Clg2-ZOVUU9rTt" height=800 width=500>
+<img src="https://drive.google.com/uc?export=download&id=15NRMWa02M8lDMWj1t2Clg2-ZOVUU9rTt">
 
 
 ### Solved conflict
 
-<img src="https://drive.google.com/uc?export=download&id=1sRtLbJh7SyX7CyT4163ZyEWRCjEJXZzU" height=800 width=500>
+<img src="https://drive.google.com/uc?export=download&id=1sRtLbJh7SyX7CyT4163ZyEWRCjEJXZzU">
 
