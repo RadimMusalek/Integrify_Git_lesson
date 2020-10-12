@@ -1,5 +1,9 @@
 # Git group assignment
 
+### Team members
+- Biswajit Paul
+- Radim Mušálek
+
 ### Coding process
 - **git status**
 - **nano** README.md (changes done in the file done)
