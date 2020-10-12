@@ -5,7 +5,6 @@
 - **nano** README.md (changes done in the file done)
 - **git add** README.md
 - **git commit -m** "List of team members added to the README.md file"
-- **git push** origin radim_version
 - **git checkout** main
 - **git merge** radim_version
 - **git push** origin main
