@@ -1,8 +1,9 @@
 # Integrify_Git_lesson
-Integrify first lesson on using Git and GitHub
+An Integrify group assignment on using Git and GitHub.
+
 Team members:
-- Biswajit
-- Radim
+- Biswajit Paul
+- Radim Musalek
 
 #### Steps:
 
